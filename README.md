@@ -1,4 +1,4 @@
-# TranslateBot
+# TranslateBot https://t.me/code_translate_bot
 🇬🇧🇺🇸 This telegram bot is able to translate text into several languages at once. 
 You can use it to localize the interface of applications, websites, or for other tasks.
  
